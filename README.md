@@ -21,11 +21,12 @@ The wallpaper will change, the instruction image will automatically open, and a 
 ![alt text](https://i.imgur.com/rVPln4G.png)
 
 A few seconds later, if the key is valid, all of the files are decrypted.
+
 but.. the wallpaper stays foreverrr....
 
 and the best part..
-The file was analyzed by virustotal.com with more than 70 of the greatest antivirus programs in the world, but none of them identified him as a virus,
-likely because it is entirely written in Python, which is not typical for ransomware (at list at the time I scanned it back in April 2021)
+The file was analyzed by virustotal.com with more than 70 of best antivirus, but none of them identified him as a virus,
+most likely due to the fact that it's entirely written in Python, which is not typical for ransomware (at list at the time I scanned it back in April 2021)
 
 ![alt text](https://i.imgur.com/iN8sQDL.png)
 
