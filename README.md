@@ -4,7 +4,7 @@ This software is a proof of concept designed to demonstrate the danger of ransom
 Ransomware is malicious software designed to encrypt files on a user's computer. The user is then asked to pay a ransom, usually in the form of cryptocurrency, in order to decrypt the files.
 This software is designed for educational purposes only, and is not to be used for any malicious purpose. It is not intended to be used to infect or damage computers.
 
-inspired by WannaCry ransom but is significantly less effective.
+inspired by WannaCry ransom but is vastly less efficiant.
 
 1. The user opens the malicious file, pc with a lot of diffrent files
 
