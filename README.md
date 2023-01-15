@@ -31,5 +31,5 @@ most likely due to the fact that it's entirely written in Python, which is not t
 ![alt text](https://i.imgur.com/iN8sQDL.png)
 
 ## note
-The encryption algorithm used in this software is not developed by me due to his comlexity, i used an open-source algorithm that i found online.
+The encryption algorithm used in this software is'nt developed by me, i used an open-source algorithm that i found online.
 
