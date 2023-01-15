@@ -16,7 +16,7 @@ The wallpaper will change, the instruction image will automatically open, and a 
 ![alt text](https://i.imgur.com/S1P25KL.png)
 ![alt text](https://i.imgur.com/RbbNQEj.png)
 
-3. The user opens a new file and enters a decryption key.
+3. The user opens the new file and enters a decryption key.
 
 ![alt text](https://i.imgur.com/rVPln4G.png)
 
